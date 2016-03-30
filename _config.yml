@@ -1,0 +1,28 @@
+name: 311PhoneRepair
+favicon: null
+layout_spectrum: 0.1243162474129349
+typography_spectrum: 0.4250490500126034
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.664576665032655
+  lightness: 0.24263376998715103
+  saturation: 0.8018263096455485
+  rhythmicContrast: 0.8605659443419427
+purpose: []
